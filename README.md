@@ -1,5 +1,5 @@
-# SummerTraining_Java
-Repository for all the solution related to Departmental Java Training (Core + Advance)
+# SummerTraining in Java
+Repository for all the solutions related to Departmental Java Training (Core + Advance)
 
             Java String – Level-1
 1.	WAP to accept a String from User and Display it Back on Screen
