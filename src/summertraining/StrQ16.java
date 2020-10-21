@@ -1,4 +1,5 @@
 package summertraining;
+import java.lang.String;
 import java.util.Scanner;
 public class StrQ16 {
     public static void main (String[]args)
