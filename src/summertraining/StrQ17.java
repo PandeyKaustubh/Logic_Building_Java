@@ -1,5 +1,6 @@
 package summertraining;
 import java.util.Scanner;
+import java.lang.String;
 public class StrQ17 {
     public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
