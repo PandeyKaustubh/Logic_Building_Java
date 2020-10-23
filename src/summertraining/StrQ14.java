@@ -1,4 +1,5 @@
 package summertraining;
+import java.lang.String;
 public class StrQ14 {
     public static void main(String[] args) {
     String s1 ="15 august is independence day";
