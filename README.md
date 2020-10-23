@@ -24,7 +24,7 @@ Repository for all the solutions related to Departmental Java Training (Core + A
 13.	WAP to accept two strings and tell which comes later in lexicographics order(dictionary order). If equal how appropriate message.
 14.	WAP to replace “15 august” with “26 january” and  “independence” with “republic” in the string “15 august is independence day” 
 15.	WAP of  Trim                    “          hi      ”                    ----- “hi”.
-16.	WAP in java to accept 5 String/Name and Display the names that start with a Vowel
+16.	WAP in java to accept 5 String/Name and Display the names that start with an Vowel
 17.	WAP to accept  String and Convert its individual characters to capital and Small alternately.(Amar----- aMaR)
 18.	WAP to accept a String count the frequency of each alphabet in the String.
 banana
