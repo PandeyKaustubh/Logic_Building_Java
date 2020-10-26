@@ -14,12 +14,12 @@ Repository for all the solutions related to Departmental Java Training (Core + A
 10.	WAP of SubString (AMAR SINGH--- R SINGH)
 11.	WAP to accept a word and convert it to piglatin form(trouble --- oubletray)
 12.	WAP to accept the name of a person and guess the gender based on following Table.
-			Condition	Gender
+			Condition	       Gender
 			Start with “mr.”	Male
 			Start with “miss”	Female
 			Start with “mrs”	Married Female
 			Ends with “Kumari”	Female
-			Else	Cannot Determine
+			Else	                Cannot Determine
 
 13.	WAP to accept two strings and tell which comes later in lexicographics order(dictionary order). If equal how appropriate message.
 14.	WAP to replace “15 august” with “26 january” and  “independence” with “republic” in the string “15 august is independence day” 
