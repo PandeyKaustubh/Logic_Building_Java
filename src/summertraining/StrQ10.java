@@ -9,8 +9,8 @@ public class StrQ10 {
 		System.out.println("Enter Last Name");
 		String l_name = sc.nextLine().toUpperCase();
 		
-		String res=f_name.charAt(f_name.length()-1)+" "+l_name;
-		System.out.println(res);
+		String full_name=f_name.charAt(f_name.length()-1)+" "+l_name;
+		System.out.println(full_name);
 	}
     
 }
