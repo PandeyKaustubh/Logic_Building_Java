@@ -27,6 +27,6 @@ public class StrQ7 {
                     System.out.println("7th Day");
                 
 		else
-                    System.out.println("Invalid Input");
+                    System.out.println("Invalid Input! Enter Correct Day");
 	}
 }
