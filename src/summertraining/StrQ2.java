@@ -10,8 +10,8 @@ public class StrQ2 {
 	System.out.println("Enter Last Name");
 	String l_name=x.next();
 		
-	String s_name=f_name.charAt(0)+"."+m_name.charAt(0)+"."+l_name.charAt(0);
+	String full_name=f_name.charAt(0)+"."+m_name.charAt(0)+"."+l_name.charAt(0);
 		
-	System.out.println(s_name);
+	System.out.println(full_name);
 	}
 }
